@@ -1,0 +1,12 @@
+//Update.json 文件内容
+{
+    "versionCode":99,
+    "versionName": 1.7.3,
+	"updateInf":[
+		"修复BUG",
+		"优化功能",
+		"增加新的功能"
+	],
+    "url": "www.baidu.com"
+}
+
